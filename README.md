@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio del prepcourse de hery
+Repositorio del prepcourse de henry
